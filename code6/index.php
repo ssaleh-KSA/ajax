@@ -26,7 +26,7 @@
                           <button class="btn btn-danger" onclick="window.location.reload()"><i class="fa fa-refresh" aria-hidden="true"></i></button>
                      </div>  
                      <br />  
-                    <input type="ssearch" name="search" id="search_input">
+                    <input type="ssearch" name="search" id="search_input" autocomplete="off">
                      <div id="employee_table">  
                           <table class="table table-bordered">  
                                <tr>  
